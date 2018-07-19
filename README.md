@@ -1,4 +1,6 @@
-# Hubspot toolset - a command line for maitain hubspot objects
+# Hubspot toolkits
+
+A few command line for manipulating hubspot objects.
 
 ## Dependencies
 
