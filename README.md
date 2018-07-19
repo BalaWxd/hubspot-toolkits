@@ -9,13 +9,17 @@
 
 ## How to use
 
+```
 python contacts.py delete --file=path/to/data.txt
 python contacts.py delete --vid=8888888
 python contacts.py search --vid=8888888
+```
 
 ## Configuration
 
 - Create a .env file
 - Adds below to the file
 
-``API_KEY=88888888888888888888888888888888``
+```
+API_KEY=88888888888888888888888888888888
+```
